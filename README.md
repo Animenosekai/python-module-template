@@ -45,7 +45,7 @@ pip install module_name
 ### Option 2: From Git
 
 ```bash
-pip install https://github.com/Animenosekai/module_name
+pip install git+https://github.com/Animenosekai/module_name
 ```
 
 You can check if you successfully installed it by printing out its version:
